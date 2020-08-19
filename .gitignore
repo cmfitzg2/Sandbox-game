@@ -1,1 +1,7 @@
 *.class
+*.project
+*.classpath
+*.iml
+lasttime.txt
+/out
+*.idea/
